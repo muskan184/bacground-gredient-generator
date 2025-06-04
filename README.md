@@ -1,1 +1,1 @@
-<h1>bacground-gredient-generator</h1>
+<h1>Bacground-gredient-generator</h1>
